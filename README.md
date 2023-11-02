@@ -1,0 +1,1 @@
+descargue el repositorio y utilice npm i para instalar todas las dependencias luego npm start para iniciar la app react 
